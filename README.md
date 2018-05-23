@@ -1,4 +1,4 @@
-# Redux -Weather App -Stores & Middleware demo
+# Redux - Simple ToDo with a simple store
 
 The project implements a very simple todo app that takes in an input and stores it in the root reducer's state.The project can be used as a minimal boiler plate for react-redux projects.
 
